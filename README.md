@@ -1,4 +1,6 @@
-# newmt
+# 3x3FreeStyle
+
+Truly reflect basketball culture The product line comprehensive presents modern basketball spirit and charm from street basketball to professional basketball, even world tournaments.
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
