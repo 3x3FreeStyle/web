@@ -1,0 +1,32 @@
+@font-face {
+    font-family: MStiffHei PRC;
+    src: url("~@/assets/font/MSTIFFHEI.TTF");
+}
+@font-face {
+    font-family:  Impact;
+    src: url("~@/assets/font/IMPACT.TTF");
+}
+@font-face {
+    font-family:  Cooper Std;
+    src: url("~@/assets/font/COOPERBLACKSTD.OTF");
+}
+@font-face {
+    font-family:  AkzidenzGrotesk;
+    src: url("~@/assets/font/AKZIDENZ GROTESK BLACK.TTF");
+}
+@font-face {
+    font-family: newTitle;
+    src: url("~@/assets/font/321PERFECT.TTF");
+}
+.font_MStiffHei{
+    font-family: MStiffHei PRC !important;
+}
+.font_Impact{
+    font-family: Impact !important;
+}
+.font_CooperStd{
+    font-family: Cooper Std !important;
+}  
+.font_AkzidenzGrotesk{
+    font-family: AkzidenzGrotesk !important;
+}   
